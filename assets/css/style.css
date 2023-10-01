@@ -1,19 +1,3 @@
-/*-----------------------------------*\
- * style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
- * #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
 
     /**
@@ -565,7 +549,7 @@
   .about { padding-block: var(--section-padding); }
   
   .about-banner {
-    max-width: 400px;
+    max-width: 500px;
     margin-inline: auto;
     margin-bottom: 80px;
   }
