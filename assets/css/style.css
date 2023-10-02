@@ -478,9 +478,7 @@
     border-color:  var(--raw-seinna);
   }
 
-  
-  
-  
+
   
   /*-----------------------------------*\
    * #STATS
@@ -925,6 +923,7 @@
       max-width: 550px;
       margin-inline: auto;
     }
+
   
     .section-title { max-width: 380px; }
   
@@ -941,6 +940,7 @@
   
     .project-list > li:first-child { column-span: all; }
 
+  
     
   
   }
