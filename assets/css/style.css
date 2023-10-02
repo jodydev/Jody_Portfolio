@@ -4,9 +4,7 @@
      * colors
      */
   
-    --raw-seinna: hsl(24, 74%, 58%);
-    --sizzling-sunrise: hsl(51, 95%, 54%);
-    --scarlet: hsl(13, 96%, 47%);
+    --raw-seinna: #f07202;
     --black: hsl(0, 0%, 0%);
     --white: hsl(0, 0%, 100%);
     
@@ -298,7 +296,7 @@
   
   .logo a {
     color: var(--color-primary);
-    font-family: var(--ff-saira-stencil-one);
+    font-family: var(--ff-poppins);
   }
   
   .logo span {
