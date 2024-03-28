@@ -480,6 +480,8 @@ main {
   margin-bottom: 30px;
 }
 
+
+
 :is(.hero-social-list, .scroll-down) {
   display: none;
 }
@@ -1059,6 +1061,8 @@ textarea.input-field {
     --section-padding: 100px;
   }
 
+
+
   /**
      * REUSED STYLE
      */
@@ -1369,3 +1373,12 @@ textarea.input-field {
     max-width: 450px;
   }
 }
+
+@media screen and (min-width: 1921px) {
+  .hero-content{
+    margin-left: 150px ;
+  }
+  
+}
+
+
